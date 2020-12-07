@@ -2,8 +2,8 @@
 //  QYRefresh.h
 //  DiyRefresh
 //
-//  Created by sudiyang on 2019/6/26.
-//  Copyright © 2019 sudiyang. All rights reserved.
+//  Created by jqy on 2019/6/26.
+//  Copyright © 2019 jqy. All rights reserved.
 //
 
 #import "UIScrollView+QYRefresh.h"

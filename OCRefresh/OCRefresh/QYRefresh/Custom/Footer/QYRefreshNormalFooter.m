@@ -2,8 +2,8 @@
 //  QYRefreshNormalFooter.m
 //  DiyRefresh
 //
-//  Created by sudiyang on 2019/6/25.
-//  Copyright © 2019 sudiyang. All rights reserved.
+//  Created by jqy on 2019/6/25.
+//  Copyright © 2019 jqy. All rights reserved.
 //
 
 #import "QYRefreshNormalFooter.h"
